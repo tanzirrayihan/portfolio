@@ -135,3 +135,6 @@ main {
 .section-title{
     margin-top: 130px; 
 }
+.resume-content{
+    display: flex;
+}
